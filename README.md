@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**vedantgawande02/vedantgawande02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...B.E. 2ND YEAR COMPUTER SCIENCE ENGINEERING
+- 🌱 I’m currently learning ...C++ & WEB DEVELOPMENT
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...GUIDANCE AND EXTRA SKILLS REQUIRED TO BECOME BETTER
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
