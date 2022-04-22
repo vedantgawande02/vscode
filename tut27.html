@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Variables/Custom Properties</title>
+</head>
+<style>
+    .container {
+        background-color: black;
+        display: flex;
+        /* align-item:center; */
+        /* margin:auto; */
+        /* display: inline-block; */
+    }
+
+    .box {
+        height: 250px;
+        width: 500px;
+        /* border: 2px solid red; */
+        /* margin: 23px 9px; */
+        /* box-shadow: 4px 7px; */
+        /* box-shadow: 3px 3px; */
+        background-color: rgb(60, 182, 23);
+        position: relative;
+        animation-name: vedant2;
+        animation-duration: 2s;
+        animation-iteration-count: infinite;
+        animation-timing-function: ease-in-out;
+        /* animation-fill-mode: alternate; */
+        animation-direction:initial;
+    }
+  .box:hover{
+      background-color: green;
+     
+  }
+    @keyframes vedant3 {
+        from {
+            width: 200px;
+        }
+
+        to {
+            width: 400px;
+        }
+    }
+
+    @keyframes vedant2 {
+        0% {
+            top: 0px;
+            width: 0px;
+        }
+
+        25% {
+            top: 400px;
+            width: 0px;
+        }
+
+        75% {
+            top: 250px;
+            width: 250px;
+        }
+
+        100% {
+            top: 0px;
+            width: 400px;
+        }
+    }
+</style>
+
+<body>
+    <div class="container">
+        <div class="box">
+            metal-dumbbell
+        </div>
+    </div>
+</body>
+
+</html>
